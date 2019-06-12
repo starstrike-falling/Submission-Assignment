@@ -1,0 +1,53 @@
+/**
+ * 
+ * @author //Put your first and last name here
+ *
+ */
+public class You{
+
+	private String firstName;
+	private String lastName;
+	private String favoriteAnimal;
+	private int age;
+	
+	/**
+	 * Sets all private global variables to your information
+	 */
+	public You()
+	{
+		//write code here
+	}
+	
+	/**
+	 * Returns your age
+	 * 
+	 * @return age
+	 */
+	public int getAge()
+	{
+		//write code here
+	}
+	
+	/**
+	 * Returns a String of your first and last name with a space in between
+	 * 
+	 * @return fullName
+	 */
+	public String getFullName()
+	{
+		//write code here		
+	}
+	
+	/**
+	 * Increases your age by 1 and returns it
+	 */
+	public int happyBirthday()
+	{
+		//write code here
+	}
+	
+	public void setFavoriteAnimal()
+	{
+		//write code here
+	}
+}
